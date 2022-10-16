@@ -22869,6 +22869,51 @@ a.u-button-style.u-button-style.u-active-grey-5[class*="u-border-"].active {
 a.u-link.u-hover-grey-5:hover {
   color: #f2f2f2 !important;
 }
+
+.u-grey-6,
+.u-body.u-grey-6,
+.u-container-style.u-grey-6:before,
+.u-table-alt-grey-6 tr:nth-child(even) {
+  color: #111111;
+  background-color: #fbfbfb;
+}
+.u-button-style.u-grey-6,
+.u-button-style.u-grey-6[class*="u-border-"] {
+  color: #111111 !important;
+  background-color: #fbfbfb !important;
+}
+.u-button-style.u-grey-6:hover,
+.u-button-style.u-grey-6[class*="u-border-"]:hover,
+.u-button-style.u-grey-6:focus,
+.u-button-style.u-grey-6[class*="u-border-"]:focus,
+.u-button-style.u-button-style.u-grey-6:active,
+.u-button-style.u-button-style.u-grey-6[class*="u-border-"]:active,
+.u-button-style.u-button-style.u-grey-6.active,
+.u-button-style.u-button-style.u-grey-6[class*="u-border-"].active {
+  color: #111111 !important;
+  background-color: #dadada !important;
+}
+.u-hover-grey-6:hover,
+.u-hover-grey-6[class*="u-border-"]:hover,
+.u-hover-grey-6:focus,
+.u-hover-grey-6[class*="u-border-"]:focus,
+.u-active-grey-6.u-active.u-active,
+.u-active-grey-6[class*="u-border-"].u-active.u-active,
+a.u-button-style.u-hover-grey-6:hover,
+a.u-button-style.u-hover-grey-6[class*="u-border-"]:hover,
+a.u-button-style.u-hover-grey-6:focus,
+a.u-button-style.u-hover-grey-6[class*="u-border-"]:focus,
+a.u-button-style.u-button-style.u-active-grey-6:active,
+a.u-button-style.u-button-style.u-active-grey-6[class*="u-border-"]:active,
+a.u-button-style.u-button-style.u-active-grey-6.active,
+a.u-button-style.u-button-style.u-active-grey-6[class*="u-border-"].active {
+  color: #111111 !important;
+  background-color: #fbfbfb !important;
+}
+a.u-link.u-hover-grey-6:hover {
+  color: #fbfbfb !important;
+}
+
 .u-grey-10,
 .u-body.u-grey-10,
 .u-container-style.u-grey-10:before,
